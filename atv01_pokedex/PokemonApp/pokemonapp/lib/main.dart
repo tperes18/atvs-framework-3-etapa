@@ -14,7 +14,7 @@ void main() {
       ),
     ),
   );
-} 
+}
 
 class MeuApp extends StatelessWidget {
   const MeuApp({
