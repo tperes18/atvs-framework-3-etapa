@@ -14,4 +14,5 @@
 | [Atividade 04 - Estoque](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODg1Mzc5NTg4NDIx/details) | Controle de estoque com login e senha + SQlite | ❌ |
 
 | Material | Título |
+| -- | -- |
 | [Material 01](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/m/ODc4NDg0NDg1NjE0/details) | Persistência e Sqlite - Mapa Mental e Código |
