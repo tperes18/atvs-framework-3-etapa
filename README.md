@@ -12,7 +12,4 @@
 | [Atividade 02 - Janaína](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODc2OTgxMTYzMzY4/details) | Integração Python API + Flutter | ❌ |
 | [Atividade 03 - Lista de Filmes](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODg0OTM3ODA0Mjg1/details) | Utlização de SQLite para armazenar lista de filmes | ❌ |
 | [Atividade 04 - Estoque](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODg1Mzc5NTg4NDIx/details) | Controle de estoque com login e senha + SQlite | ❌ |
-
-| Material | Título |
-| -- | -- |
-| [Material 01](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/m/ODc4NDg0NDg1NjE0/details) | Persistência e Sqlite - Mapa Mental e Código |
+| [Atividade 05 - Central de Missões](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODg2ODE1OTU3NTIz/details) | Aplicativo que utiliza Flutter + Firebase Cloud Firestore | ❌ |
