@@ -11,5 +11,8 @@
 | [Atividade 01 - Pokédex](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODc2NTk3NDE0Mzcw/details) | API, Services, Flask e Provider | ❌ |
 | [Atividade 02 - Janaína](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODc2OTgxMTYzMzY4/details) | Integração Python API + Flutter | ❌ |
 | [Atividade 03 - Lista de Filmes](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODg0OTM3ODA0Mjg1/details) | Utlização de SQLite para armazenar lista de filmes | ❌ |
-| [Atividade 04 - Estoque](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODg1Mzc5NTg4NDIx/details) | Controle de estoque com login e senha + SQlite | ❌ |
-| [Atividade 05 - Central de Missões](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODg2ODE1OTU3NTIz/details) | Aplicativo que utiliza Flutter + Firebase Cloud Firestore | ❌ |
+| [Atividade 04 - Cadastro de Feiticeiros (???)](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODg5Njg1NDM2NDg1/details) | Firebase e Firebase Authentication | ❌ |
+| [Atividade 05 - Estoque](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODg1Mzc5NTg4NDIx/details) | Controle de estoque com login e senha + SQlite | ❌ |
+| [Atividade 06 - Central de Missões](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODg2ODE1OTU3NTIz/details) | Aplicativo que utiliza Flutter + Firebase Cloud Firestore | ❌ |
+| [Atividade 07 - Comentários em Tempo Real](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODkzNDQ2MDc4OTUw/details) | ? | ❌ |
+| [Atividade 08 - Detetives de Bugs](https://classroom.google.com/c/ODQzNTk4Mjg0NzU5/a/ODk2MzI0OTc0ODU0/details) | Conserto de bugs em aplicativo Flutter | ❌ |
